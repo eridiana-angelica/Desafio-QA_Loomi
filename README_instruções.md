@@ -26,6 +26,8 @@ Projeto de automação de testes desenvolvido como parte do desafio técnico par
 - Melhores Momentos
 
 ---
+🔗 Trello:
+https://trello.com/invite/b/6996322c55841610a801c822/ATTI00fb1066c995599110eb6d84c57432b256A0DB89/desafio-qa
 
 ## 🛠️ Como executar o projeto
 
@@ -33,7 +35,3 @@ Projeto de automação de testes desenvolvido como parte do desafio técnico par
 
 ```bash
 git clone https://github.com/eridiana-angelica/Desafio-QA_Loomi.git
-
-
-🔗 Trello:
-https://trello.com/invite/b/6996322c55841610a801c822/ATTI00fb1066c995599110eb6d84c57432b256A0DB89/desafio-qa
